@@ -16,7 +16,7 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 ✨ Criando bugs desde 2024 <br><br>
 🐍 Python | Scripts, Automações, APIs RESTful, Django e FastAPI<br><br>
 🌐 Google Cloud | Fundamentos de Cloud Computing e IA Gen<br><br>
-📚 Atualmente estudando: C# | .NET | Arquitetura de Sistemas<br><br>
+📚 Atualmente estudando: Java | Spring | Arquitetura de Sistemas<br><br>
 🎯 Objetivos: Crescimento profissional em tecnologia, contribuindo com soluções eficientes
 </h4>
 
@@ -29,7 +29,7 @@ Sou Técnico de Serviços na TOTVS, atuando na linha RM, com foco na implantaç�
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="csharp logo" />
   <img width="25" />
   <a href="https://www.credly.com/badges/e03c1e2d-68b9-4222-975a-48abc144526a" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
